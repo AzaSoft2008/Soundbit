@@ -9,7 +9,7 @@ const tracks = [
         title: "Федерико Феллини",
         artist: "Galibri & Mavik",
         cover: "https://pic.latvijasradio.lv/public/assets/media/b/b/square_44ef7f5b.jpg",
-        url: "https://drive.google.com/file/d/1kvJAZUfvj6edH7r4XXcgFXN5WFOY0ktt/view?usp=drive_link"
+        url: "https://voca.ro/1ghRAhVyDRde"
         
     },
     {
